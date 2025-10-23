@@ -4,7 +4,7 @@ Using multivariate logistic regression and machine learning techniques to explor
 **[Watch the final project video](https://youtu.be/1zrBwbUGR7Y)** ⬇️
 
 
-[![Watch the final project video](Thump_nail.JPG.png)](https://youtu.be/1zrBwbUGR7Y)
+[![Watch the final project video](Thumb%20finallll.jpg)](https://youtu.be/1zrBwbUGR7Y)
 
 
  # Why i'm starting over - breaking the pattern
